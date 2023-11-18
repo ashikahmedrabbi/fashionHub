@@ -1,0 +1,31 @@
+.phone-carousel {
+    background: url(resources/bg.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+.button-color {
+    background-color: #171495;
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+
+.button-color1 {
+    background-color: black;
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+
+.carouselImage {
+    width: 45%;
+    margin-top: 10%;
+    padding-top: 10%;
+    object-fit: cover;
+}
